@@ -1,1 +1,1 @@
-# AnimeTHugs2.0-soon
+Variant A: High-intensity hero. Replace assets/bg.jpg with your image.
